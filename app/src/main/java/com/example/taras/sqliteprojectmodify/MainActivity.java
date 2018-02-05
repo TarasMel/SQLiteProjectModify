@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);// получаем экземпляр элемента ListView
+        setContentView(R.layout.activity_main);
         btn_Add = (Button) findViewById(R.id.btn_add_ID);
         listView = (ListView) findViewById(R.id.listView_ID);
         final EditText editText = (EditText) findViewById(R.id.editable_ID);
