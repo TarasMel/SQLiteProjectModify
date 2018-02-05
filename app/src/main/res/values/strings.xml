@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteProjectModify</string>
+    <string name="btn_add">Add</string>
+    <string name="menu_title">Delete</string>
+</resources>
